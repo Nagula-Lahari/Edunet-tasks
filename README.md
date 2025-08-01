@@ -43,7 +43,7 @@ This project uses sensor data to intelligently predict irrigation needs for mult
 2. Place `irrigation_machine.csv` in the same folder.
 3. Run the Jupyter Notebook or Python script.
 4. Run the app.py file by using the command ( streamlit run app.py )
-5. copy / ctrl+click the url and open it in any web browser 
+5. Copy / ctrl+click the url and open it in any web browser 
 6. View results and visualizations.
 
 ---
